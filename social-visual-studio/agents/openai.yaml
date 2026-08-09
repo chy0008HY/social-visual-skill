@@ -1,0 +1,6 @@
+interface:
+  display_name: "社群視覺工作室"
+  short_description: "整合圖卡規劃、圖片生成與自然社群文案的完整工作流程"
+  default_prompt: "Use $social-visual-studio to turn this topic into a polished social-media carousel with natural copy."
+policy:
+  allow_implicit_invocation: true
